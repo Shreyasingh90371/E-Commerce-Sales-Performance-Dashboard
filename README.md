@@ -7,7 +7,7 @@ Total Revenue: Overall sales performance of the business.
 
 Average Order Value (AOV): The average amount spent per order.
 
-!Dashboard: [(<img width="1440" height="900" alt="dashboard_v3" src="https://github.com/user-attachments/assets/b0652dfd-721b-4136-9a54-4bb1453609a9" />)]
+!Dashboard: [(<img width="1440" height="900" alt="dashboard_v3" src="https://github.com/Shreyasingh90371/E-Commerce-Sales-Performance-Dashboard/blob/main/dashboard_v3.jpeg" />)]
 
 Key Analyses and Insights:
 
